@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Our First Type Annotation]()
-- [Working With Numbers and Booleans]()
-- [Compiling TypeScript]()
-- [Type Inference]()
-- [The Any Type]()
-- [Delayed Initialization and Implicit Any]()
+- Our First Type Annotation
+- Working With Numbers and Booleans
+- Compiling TypeScript
+- Type Inference
+- The Any Type
+- Delayed Initialization and Implicit Any
 
 ### Our First Type Annotation
 
@@ -156,8 +156,6 @@ dynamicValue = "Hello, TypeScript!";
 ```
 
 ### Delayed Initialization and Implicit Any
-
-
 
 - **Delayed Initialization** refers to declaring a variable without an initial value, often inferring the type as `any`. Values are assigned later.
 
